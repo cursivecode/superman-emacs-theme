@@ -51,6 +51,13 @@
  '(mode-line-buffer-id ((t (:foreground "#ffffff"))))
  '(region ((t (:background "#3D0000"))))
 
+ ;;; rainbow delimiters
+ '(rainbow-delimiters-depth-1-face ((t (:foreground "white"))))
+ '(rainbow-delimiters-depth-2-face ((t (:foreground "light blue"))))
+ '(rainbow-delimiters-depth-3-face ((t (:foreground "#ED0027"))))
+ '(rainbow-delimiters-depth-4-face ((t (:foreground "#003CDF"))))
+ '(rainbow-delimiters-depth-5-face ((t (:foreground "#E6DB74"))))
+ '(rainbow-delimiters-depth-6-face ((t (:foreground "#7FA5FF"))))
  )
 
 ;;;###autoload
