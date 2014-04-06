@@ -31,10 +31,10 @@
 
  '(font-lock-builtin-face ((t (:foreground "#3173FF")))) ;blue
  '(font-lock-variable-name-face ((t (:foreground "#3173FF")))) ;blue
- '(font-lock-comment-face ((t (:foreground "#465457" )))) ;grey
- '(font-lock-comment-delimiter-face ((t (:foreground "#465457")))) ;grey
- '(font-lock-constant-face ((t (:foreground "#444444")))) ;grey
- '(font-lock-doc-face ((t (:foreground "#E6DB74"))))
+ '(font-lock-comment-face ((t (:foreground "#444444" )))) ;grey
+ '(font-lock-comment-delimiter-face ((t (:foreground "#444444")))) ;grey
+ '(font-lock-constant-face ((t (:foreground "#A4A4A4")))) ;grey
+ '(font-lock-doc-face ((t (:foreground "#444444"))))
  '(font-lock-function-name-face ((t (:foreground "#003CDF" :background "#00053C")))) ;dark blue
  '(font-lock-keyword-face ((t (:foreground "#ED0027" :background "#3D0000")))) ;red
  '(font-lock-negation-char-face ((t (:weight bold))))
