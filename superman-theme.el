@@ -60,11 +60,11 @@
  '(rainbow-delimiters-depth-6-face ((t (:foreground "#7FA5FF"))))
 
  ;;; helm
- '(helm-selection ((t (:foreground "#ED0027"))))
+ '(helm-selection ((t (:foreground "#ED0027" :background "#3D0000"))))
 
  ;;; autocomplete-mode
- '(ac-candidate-face ((t (:background "#000000" :foreground "#ED0027"))))
- '(ac-selection-face ((t (:background "#00053C" :foreground "#FFFFFF"))))
+ '(ac-candidate-face ((t (:foreground "#00053C" :background "light grey"))))
+ '(ac-selection-face ((t (:background "#ED0027" :foreground "#FFFFFF"))))
 
  )
 
