@@ -58,6 +58,14 @@
  '(rainbow-delimiters-depth-4-face ((t (:foreground "#003CDF"))))
  '(rainbow-delimiters-depth-5-face ((t (:foreground "#E6DB74"))))
  '(rainbow-delimiters-depth-6-face ((t (:foreground "#7FA5FF"))))
+
+ ;;; helm
+ '(helm-selection ((t (:foreground "#ED0027"))))
+
+ ;;; autocomplete-mode
+ '(ac-candidate-face ((t (:background "#000000" :foreground "#ED0027"))))
+ '(ac-selection-face ((t (:background "#00053C" :foreground "#FFFFFF"))))
+
  )
 
 ;;;###autoload
