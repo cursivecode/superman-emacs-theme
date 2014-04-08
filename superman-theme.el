@@ -35,7 +35,7 @@
  '(font-lock-comment-delimiter-face ((t (:foreground "#444444")))) ;grey
  '(font-lock-constant-face ((t (:foreground "#A4A4A4")))) ;grey
  '(font-lock-doc-face ((t (:foreground "#444444"))))
- '(font-lock-function-name-face ((t (:foreground "#003CDF" :background "#00053C")))) ;dark blue
+ '(font-lock-function-name-face ((t (:foreground "#003CDF")))) ;dark blue
  '(font-lock-keyword-face ((t (:foreground "#ED0027" :background "#3D0000")))) ;red
  '(font-lock-negation-char-face ((t (:weight bold))))
  '(font-lock-regexp-grouping-backslash ((t (:weight bold))))
@@ -54,7 +54,7 @@
  ;;; rainbow delimiters
  '(rainbow-delimiters-depth-1-face ((t (:foreground "white"))))
  '(rainbow-delimiters-depth-2-face ((t (:foreground "light blue"))))
- '(rainbow-delimiters-depth-3-face ((t (:foreground "#ED0027"))))
+ '(rainbow-delimiters-depth-3-face ((t (:foreground "#800000"))))
  '(rainbow-delimiters-depth-4-face ((t (:foreground "#003CDF"))))
  '(rainbow-delimiters-depth-5-face ((t (:foreground "#E6DB74"))))
  '(rainbow-delimiters-depth-6-face ((t (:foreground "#7FA5FF"))))
