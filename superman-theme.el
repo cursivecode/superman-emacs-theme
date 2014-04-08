@@ -36,7 +36,8 @@
  '(font-lock-constant-face ((t (:foreground "#A4A4A4")))) ;grey
  '(font-lock-doc-face ((t (:foreground "#444444"))))
  '(font-lock-function-name-face ((t (:foreground "#003CDF")))) ;dark blue
- '(font-lock-keyword-face ((t (:foreground "#ED0027" :background "#3D0000")))) ;red
+ '(font-lock-keyword-face ((t (:foreground "#ED0027" ;:background "#3D0000"
+                                           )))) ;red
  '(font-lock-negation-char-face ((t (:weight bold))))
  '(font-lock-regexp-grouping-backslash ((t (:weight bold))))
  '(font-lock-regexp-grouping-construct ((t (:weight bold))))
