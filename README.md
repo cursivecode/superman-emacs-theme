@@ -1,4 +1,4 @@
 superman-theme
 =============
 
-![Screenshot](https://github.com/cursivecode/superman-theme/raw/master/screenshot.png)
+![Screenshot](https://github.com/cursivecode/superman-emacs-theme/master/screenshot.png)
