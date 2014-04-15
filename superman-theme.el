@@ -46,7 +46,7 @@
  '(font-lock-warning-face ((t (:foreground "#FFFFFF" ':background "#333333"))))
 
  ;;; Emacs Interface
- '(fringe ((t (:background "#00010B"))))
+ '(fringe ((t (:background "#040615"))))
  '(mode-line ((t (:background "#00010B" :foreground "#ED0027"))))
  '(mode-line-inactive ((t (:background "#00010B" :foreground "#444444"))))
  '(mode-line-buffer-id ((t (:foreground "#ffffff"))))
