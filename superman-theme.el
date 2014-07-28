@@ -29,20 +29,20 @@
 
  '(default ((t (:background "#040615" :foreground "#F8F8F2"))))
 
- '(font-lock-builtin-face ((t (:foreground "#232e5d")))) ;blue
- '(font-lock-variable-name-face ((t (:foreground "#232e5d")))) ;blue
- '(font-lock-comment-face ((t (:foreground "#444444" )))) ;grey
- '(font-lock-comment-delimiter-face ((t (:foreground "#444444")))) ;grey
- '(font-lock-constant-face ((t (:foreground "#A4A4A4")))) ;grey
- '(font-lock-doc-face ((t (:foreground "#444444"))))
- '(font-lock-function-name-face ((t (:foreground "#232e5d")))) ;dark blue
+ '(font-lock-builtin-face ((t (:foreground "#172770")))) ;blue
+ '(font-lock-variable-name-face ((t (:foreground "#172770")))) ;blue
+ '(font-lock-comment-face ((t (:foreground "#282828" )))) ;d grey
+ '(font-lock-comment-delimiter-face ((t (:foreground "#282828")))) ;d grey
+ '(font-lock-constant-face ((t (:foreground "#444444")))) ;grey
+ '(font-lock-doc-face ((t (:foreground "#282828")))) ;d grey
+ '(font-lock-function-name-face ((t (:foreground "#172770")))) ;dark blue
  '(font-lock-keyword-face ((t (:foreground "#ED0027" ;:background "#3D0000"
                                            )))) ;red
  '(font-lock-negation-char-face ((t (:weight bold))))
  '(font-lock-regexp-grouping-backslash ((t (:weight bold))))
  '(font-lock-regexp-grouping-construct ((t (:weight bold))))
  '(font-lock-string-face ((t (:foreground "#E6DB74")))) ;yellow
- '(font-lock-type-face ((t (:foreground "#232e5d")))) ;dark blue
+ '(font-lock-type-face ((t (:foreground "#172770")))) ;dark blue
  '(font-lock-warning-face ((t (:foreground "#FFFFFF" ':background "#333333"))))
 
  ;;; Emacs Interface
