@@ -54,11 +54,14 @@
 
  ;;; rainbow delimiters
  '(rainbow-delimiters-depth-1-face ((t (:foreground "white"))))
- '(rainbow-delimiters-depth-2-face ((t (:foreground "light blue"))))
- '(rainbow-delimiters-depth-4-face ((t (:foreground "#625200"))))
- '(rainbow-delimiters-depth-3-face ((t (:foreground "#800000"))))
+ '(rainbow-delimiters-depth-2-face ((t (:foreground "#005DD0"))))
+ '(rainbow-delimiters-depth-3-face ((t (:foreground "#92BA00"))))
+ '(rainbow-delimiters-depth-4-face ((t (:foreground "#800000"))))
  '(rainbow-delimiters-depth-5-face ((t (:foreground "#E6DB74"))))
- '(rainbow-delimiters-depth-6-face ((t (:foreground "#7FA5FF"))))
+ '(rainbow-delimiters-depth-6-face ((t (:foreground "#BF3000"))))
+ '(rainbow-delimiters-depth-7-face ((t (:foreground "#00A9A1"))))
+ '(rainbow-delimiters-depth-8-face ((t (:foreground "#BF0079"))))
+ '(rainbow-delimiters-depth-9-face ((t (:foreground "#13BF00"))))
 
  ;;; helm
  '(helm-selection ((t (:foreground "#ED0027" :background "#3D0000"))))
